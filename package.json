@@ -4,7 +4,8 @@
   "main": "bot.js",
   "dependencies": {
     "discord.js-selfbot-v13": "*",
-    "ws": "*"
+    "ws": "*",
+    "debug": "*"
   },
   "scripts": {
     "start": "node bot.js"
