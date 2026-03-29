@@ -72,4 +72,4 @@ client.on('messageCreate',(m)=>{
 
 
 
-client.login(MTM0NTMyMzMwNTQ1NjEwNzUyNA.GUWH0a.WcKp_cGjz_usrteRJ7LpdUoNxNEXOv5pH5gIBw);
+client.login(TOKEN);
