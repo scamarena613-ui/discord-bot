@@ -4,7 +4,7 @@ const WebSocket=require('ws');
 
 
 
-const TOKEN=process.env.MTM0NTMyMzMwNTQ1NjEwNzUyNA.GRGv_L.pQDQpTN2nt9ra-bIIW3IenQJROt-bf9igdD1P8;
+const TOKEN=process.env.TOKEN;
 
 const CHANNEL='1401775181025775738';
 
